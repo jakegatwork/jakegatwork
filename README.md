@@ -54,8 +54,10 @@
 
 - [Download PDF](https://greenthumbsmag.com/)
 - <b>My most up to date resume</b>
+
   -<b> In addition to my work experience, I also have experience using: </b>
-    -OBS Studio, Adobe Creative Cloud, 
+
+    - OBS Studio, Adobe Creative Cloud, 
 
 
 <h2> 🤳 Connect with me:</h2>
