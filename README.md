@@ -39,16 +39,14 @@
 
 <h2> Photography </h2>
 
+- [My photography showcase](https://greenthumbsmag.com/)
 - <b>Green Thumbs Magazine is "The World’s First Plant Themed Video Game Magazine" I created to Preview, Review, and Editorialize about video games. </b>
-- [Green Thumbs Magazine](https://greenthumbsmag.com/)
 
 
-<h3> My Favorite Articles </h3>
+
+<h3> My Favorite Shoots </h3>
 
 - [An Interview with Dr. Mick](https://greenthumbsmag.com/2025/01/12/an-interview-with-dr-mick/)
-- [Ball X Pit Is The Genre Blending Rogue-Lite I Didn’t Know I Needed](https://greenthumbsmag.com/2025/06/13/ball-x-pit-is-the-genre-blending-rogue-lite-i-didnt-know-i-needed/)
-- [Monster Hunter: Wilds Review (First 30 Hours)](https://greenthumbsmag.com/2025/03/14/monster-hunter-wilds-review-first-30-hours/)
-- [Video Game Perennials: Overwatch Stadium](https://greenthumbsmag.com/2025/05/10/video-game-perennials-overwatch-stadium/)
 
 
 
