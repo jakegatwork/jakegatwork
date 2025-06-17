@@ -46,7 +46,7 @@
 
 <h3> My Favorite Shoots </h3>
 
-- [An Interview with Dr. Mick](https://greenthumbsmag.com/2025/01/12/an-interview-with-dr-mick/)
+- [Eddie's Corvette](https://greenthumbsmag.com/2025/01/12/an-interview-with-dr-mick/)
 
 
 
