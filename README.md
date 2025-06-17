@@ -52,9 +52,10 @@
 
 <h2> My Resume </h2>
 
-- <b>Green Thumbs Magazine is "The World’s First Plant Themed Video Game Magazine" I created to Preview, Review, and Editorialize about video games. </b>
-- [Green Thumbs Magazine](https://greenthumbsmag.com/)
-
+- [Download PDF](https://greenthumbsmag.com/)
+- <b>My most up to date resume</b>
+  -<b> In addition to my work experience, I also have experience using: </b>
+    -OBS Studio, Adobe Creative Cloud, 
 
 
 <h2> 🤳 Connect with me:</h2>
