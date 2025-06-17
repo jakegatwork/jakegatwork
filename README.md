@@ -4,12 +4,12 @@
 
 <h2> Video Editing </h2>
 
+- [Playlist of everything I have worked on](https://www.youtube.com/playlist?list=PLae0XHa7XkVSeNrEwWin3kwnWhHJ260jn)
 - <b>I work primarily in Adobe Premiere Pro, Adobe Photoshop, and Adobe After Effects for video editing
 - <b>As a video editor I have worked for: </b>
   - Rooster Teeth, Achievement Hunter, Regulation Podcast, Michael Smerconish, Temple University Klein College of Media and Communications
 - <b>I have also worked with: </b>
   - GameXplain, Shady Rays, Unstable Games, and more  
-- [Playlist of everything I have worked on](https://www.youtube.com/playlist?list=PLae0XHa7XkVSeNrEwWin3kwnWhHJ260jn)
 
 
 <h3> My Favorite Projects </h3>
@@ -23,8 +23,9 @@
 
 <h2> Green Thumbs Magazine </h2>
 
-- <b>Green Thumbs Magazine is "The World’s First Plant Themed Video Game Magazine" I created after being laid off in 2024 to Preview, Review, and Editorialize about video games. </b>
 - [Green Thumbs Magazine](https://greenthumbsmag.com/)
+- <b>Green Thumbs Magazine is "The World’s First Plant Themed Video Game Magazine" I created after being laid off in 2024 to Preview, Review, and Editorialize about video games. </b>
+
 
 
 <h3> My Favorite Articles </h3>
