@@ -1,6 +1,6 @@
 <h1>I'm Jake and this is my portfolio <br/><a href="https://www.linkedin.com/in/jakegatwork/">LinkedIn</a></h1>
 
-<h3>I'm a professional video editor and creator of Green Thumbs Magazine based out of South East Pennsylvania</h3>
+<h3>I'm a professional video editor with over 4 years of experience editing Multicam videos, Podcasts, and Vlogs.  I am also the creator of Green Thumbs Magazine, a website for Reviews, Previews, and Editorial about video games. All of my video editing, writing, and photography can be found below along with my current resume.</h3>
 
 <h2> Video Editing </h2>
 
@@ -23,7 +23,7 @@
 
 <h2> Green Thumbs Magazine </h2>
 
-- <b>Green Thumbs Magazine is "The World’s First Plant Themed Video Game Magazine" I created to Preview, Review, and Editorialize about video games. </b>
+- <b>Green Thumbs Magazine is "The World’s First Plant Themed Video Game Magazine" I created after being laid off in 2024 to Preview, Review, and Editorialize about video games. </b>
 - [Green Thumbs Magazine](https://greenthumbsmag.com/)
 
 
