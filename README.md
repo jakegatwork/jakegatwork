@@ -1,6 +1,6 @@
 <h1>I'm Jake and this is my portfolio <br/><a href="https://www.linkedin.com/in/jakegatwork/">LinkedIn</a></h1>
 
-<h3>I'm a professional video editor with over 4 years of experience editing Multicam videos, Podcasts, and Vlogs.  I am also the creator of Green Thumbs Magazine, a website for Reviews, Previews, and Editorials about video games. All of my video editing, writing, and photography can be found below along with my current resume.</h3>
+<h3>I'm a professional video editor with over 4 years of experience editing Multi-cam videos, Podcasts, and Vlogs.  I am also the creator of Green Thumbs Magazine, a website for Reviews, Previews, and Editorials about video games. All of my video editing, writing, and photography can be found below along with my current resume.</h3>
 
 <h2> Video Editing </h2>
 
