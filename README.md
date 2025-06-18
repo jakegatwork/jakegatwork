@@ -40,7 +40,8 @@
 <h2> Photography </h2>
 
 - <b>Below you can find a link to all of my photography work and some of my favorite shoots </b>
-- [My photography showcase](https://greenthumbsmag.com/)
+- <b> Currently I shoot with a Canon EOS Rebel T5
+-   [My photography showcase](https://greenthumbsmag.com/)
 
 
 <h3> My Favorite Shoots </h3>
@@ -56,7 +57,7 @@
 
   -<b> In addition to my work experience, I also have experience using: </b>
 
-    - OBS Studio, Adobe Creative Cloud, 
+    - OBS Studio, Adobe Creative Cloud, Inkscape, Markdown, Parsec, Elgato Game Capture, and Elgato Stream Deck
 
 
 <h2> Email me:</h2>
