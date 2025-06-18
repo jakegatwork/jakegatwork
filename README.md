@@ -39,9 +39,8 @@
 
 <h2> Photography </h2>
 
+- <b>Below you can find a link to all of my photography work and some of my favorite shoots </b>
 - [My photography showcase](https://greenthumbsmag.com/)
-- <b>Green Thumbs Magazine is "The World’s First Plant Themed Video Game Magazine" I created to Preview, Review, and Editorialize about video games. </b>
-
 
 
 <h3> My Favorite Shoots </h3>
