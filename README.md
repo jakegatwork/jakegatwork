@@ -2,7 +2,7 @@
 
 <h3>I'm a professional video editor with over 4 years of experience editing Multi-cam videos, Podcasts, and Vlogs.  I am also the creator of Green Thumbs Magazine, a website for Reviews, Previews, and Editorials about video games. All of my video editing, writing, and photography can be found below along with my current resume.</h3>
 
-<h2> Video Editing </h2>
+<h2> Video Editing </h2> 📹
 
 - [Playlist of everything I have worked on](https://www.youtube.com/playlist?list=PLae0XHa7XkVSeNrEwWin3kwnWhHJ260jn)
 - <b>I work primarily in Adobe Premiere Pro, Adobe Photoshop, and Adobe After Effects for video editing
@@ -21,7 +21,7 @@
 - [We Played Mario Party Everyday for 30 Days // Regulation Gameplay](https://youtu.be/N4zXl-73tjU?si=GUmEalKosEOG8YSf)
 
 
-<h2> Green Thumbs Magazine </h2>
+<h2> Green Thumbs Magazine </h2> 🪴
 
 - [Green Thumbs Magazine](https://greenthumbsmag.com/)
 - <b>Green Thumbs Magazine is "The World’s First Plant Themed Video Game Magazine" I created after being laid off in 2024 to Preview, Review, and Editorialize about video games. </b>
@@ -37,7 +37,7 @@
 
 
 
-<h2> Photography </h2>
+<h2> Photography </h2> 📷
 
 - <b>Below you can find a link to all of my photography work and some of my favorite shoots </b>
 - <b> Currently I shoot with a Canon EOS Rebel T5
@@ -50,7 +50,7 @@
 
 
 
-<h2> My Resume </h2>
+<h2> My Resume </h2> 📝
 
 - <b>My most up to date [Resume](https://github.com/jakegatwork/Resume/tree/main)</b>
 
