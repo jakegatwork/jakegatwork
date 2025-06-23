@@ -52,7 +52,7 @@
 
 <h2> My Resume </h2>
 
-- <b>My most up to date [Resume]([https://greenthumbsmag.com/](https://github.com/jakegatwork/Resume/tree/main)</b>
+- <b>My most up to date [Resume](https://github.com/jakegatwork/Resume/tree/main)</b>
 
   -<b> In addition to my work experience, I also have experience using: </b>
 
