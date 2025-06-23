@@ -41,12 +41,12 @@
 
 - <b>Below you can find a link to all of my photography work and some of my favorite shoots </b>
 - <b> Currently I shoot with a Canon EOS Rebel T5
--   [My photography showcase](https://greenthumbsmag.com/)
+-   [My photography showcase](https://github.com/jakegatwork/Photo-Gallery#photo-gallery)
 
 
 <h3> My Favorite Shoots </h3>
 
-- [Eddie's Corvette](https://greenthumbsmag.com/2025/01/12/an-interview-with-dr-mick/)
+- [Eddie's Corvette](https://imgur.com/a/eddies-1976-corvette-stingray-z5lWNtl)
 
 
 
