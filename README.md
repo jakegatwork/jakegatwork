@@ -52,8 +52,7 @@
 
 <h2> My Resume </h2>
 
-- [Download PDF](https://greenthumbsmag.com/)
-- <b>My most up to date resume</b>
+- <b>My most up to date [Resume](https://greenthumbsmag.com/)</b>
 
   -<b> In addition to my work experience, I also have experience using: </b>
 
