@@ -24,6 +24,7 @@
 <h2> Green Thumbs Magazine 🪴 </h2> 
 
 - [Green Thumbs Magazine](https://greenthumbsmag.com/)
+- [Green Thumbs Magazine TikTok](https://www.tiktok.com/@greenthumbsmagazine)
 - <b>Green Thumbs Magazine is "The World’s First Plant Themed Video Game Magazine" I created after being laid off in 2024 to Preview, Review, and Editorialize about video games. </b>
 
 
